@@ -113,4 +113,4 @@ Seluruh proses pengerjaan telah direkam dan diunggah ke YouTube.
 
 **Link Video YouTube:**
 
-[![Thumbnail Video Pengerjaan](p.png)]([https://youtu.be/gbKPQXSsQzA?si=Rzi7s4lY3YLQegC3])
+[![Thumbnail Video Pengerjaan](p.png)](https://youtu.be/gbKPQXSsQzA?si=Rzi7s4lY3YLQegC3)
