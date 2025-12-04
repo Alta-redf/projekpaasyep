@@ -105,7 +105,7 @@ Berdasarkan pengalaman kami dalam proyek ini, berikut adalah analisis kelebihan 
 
 ### 5. 📂 Dokumentasi Konten Website
 
-<img align="center" margin="right" alt="web" widht=100% src="Cuplikan layar 2025-12-03 151800.png">
+<img align="center" margin="right" alt="web" widht=100% src="cv.png">
 
 ### 6. 🎬 Dokumentasi Video Pengerjaan
 
